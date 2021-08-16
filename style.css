@@ -11,7 +11,7 @@ body {
     display: flex;
     align-items: center;
 }
-.navigation a {
+.navigation {
 color: #FFFFFF;
 text-decoration: none;
 list-style: none;
